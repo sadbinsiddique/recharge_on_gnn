@@ -3,8 +3,6 @@
 _Date:08/05/2026_
 
 ---
-<p align="center">
-  <img src="/public/ssgnn.png" alt="Graph Neural Network" width="600">
 
 ### Research on
 
